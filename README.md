@@ -21,6 +21,11 @@ Welcome to my personal voice assistant project! This repository contains the cod
 * Speak commands clearly and naturally to interact with the voice assistant.
 * Customize the assistant's behavior by modifying configuration files or adding new plugins as needed.
 
-## Authors
+If you'd like to contribute to this repository, please fork the project and submit a pull request with your changes. You can also report any issues or suggest new program ideas.
+
+# Authors
 
 * [Sahil Shaikh](https://github.com/ssshaikh2112)
+
+# Contact
+[ssshaikh2112@gmail.com]
