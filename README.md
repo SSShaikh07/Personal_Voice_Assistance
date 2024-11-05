@@ -23,7 +23,7 @@ Welcome to my personal voice assistant project! This repository contains the cod
 
 If you'd like to contribute to this repository, please fork the project and submit a pull request with your changes. You can also report any issues or suggest new program ideas.
 
-# Authors
+# Author
 
 * [Sahil Shaikh](https://github.com/ssshaikh2112)
 
